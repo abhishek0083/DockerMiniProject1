@@ -3,6 +3,6 @@ target
 .classpath
 .project
 .settings
-src/main/webapp/META-INF
+src/main/wbapp/META-INF
 .idea
 *.iml
